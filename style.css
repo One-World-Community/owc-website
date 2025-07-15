@@ -16,7 +16,7 @@ body { background: #fff; color: #000; font-family: sans-serif; margin: 0; paddin
     letter-spacing: 0.02em;
     margin-bottom: 1rem;
 }
-.store-badges { display: flex; gap: 1rem; margin-top: 2.5rem; justify-content: center; margin-bottom: 1rem; }
+.store-badges { display: flex; gap: 1rem; margin-top: 1.0rem; justify-content: center; margin-bottom: 1rem; }
 .store-badges a {
   display: flex;
   width: 135px;
